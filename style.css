@@ -1,0 +1,16 @@
+ * {
+    box-sizing: border-box;
+    text-align: center;
+  }
+  
+  body{
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 18px;
+    color: #777;
+    background: #777;
+    width: 960px;
+  }
+  
+  #main{
+    background: #ebebeb;
+  }
