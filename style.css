@@ -1,11 +1,6 @@
- * {
+  * {
     box-sizing: border-box;
     text-align: center;
-  }
-  
-  .container{
-      margin: 0 auto;
-      width: 960px;
   }
 
   body{
@@ -13,13 +8,12 @@
     font-size: 18px;
     color: #777;
     background: #777;
-    width: 960px;
   }
   
   header{
-      background: #ebebeb;
-      padding: 30px;
-      margin-bottom: 10px;
+    background: #ebebeb;
+    padding: 30px;
+    margin-bottom: 10px;
   }
 
   nav{
@@ -49,4 +43,10 @@
     background: #ebebeb;
     padding: 30px;
     clear: both;
+  }
+
+  .container{
+    margin: 0 auto;
+    width: 960px;
+    position: relative;
   }
