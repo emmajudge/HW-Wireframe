@@ -11,6 +11,18 @@
     width: 960px;
   }
   
-  #main{
+  header{
+      background: #ebebeb;
+  }
+
+  section{
+    background: #ebebeb;
+  }
+
+  aside{
+    background: #ebebeb;
+  }
+
+  footer{
     background: #ebebeb;
   }
